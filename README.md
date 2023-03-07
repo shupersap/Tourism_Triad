@@ -2,7 +2,7 @@
 This repository contains a Jupyter Notebook file that analyzes event feedback data using machine learning techniques. The analysis is performed on a dataset named "eventfeedbackcleanest.csv" which is located in the "Resources" folder.
 
 ## Prerequisites
-Python 3.x
+* Python 3.x
 Jupyter Notebook
 Pandas
 NumPy
@@ -10,17 +10,17 @@ Matplotlib
 Scikit-Learn
 
 ## Getting Started
-Clone this repository on your computer.
-Install the required packages by running pip install -r requirements.txt in your command prompt or terminal.
-Start Jupyter Notebook and open the "event-feedback-analysis.ipynb" file.
-Run the cells in the notebook to reproduce the analysis.
+1. Clone this repository on your computer.
+2. Install the required packages by running pip install -r requirements.txt in your command prompt or terminal.
+3. Start Jupyter Notebook and open the "event-feedback-analysis.ipynb" file.
+4. Run the cells in the notebook to reproduce the analysis.
 
 ## Contents
 The analysis includes the following steps:
 
 1. Loading the data from the CSV file.
 2. Cleaning the data by dropping missing values and unnecessary columns.
-3.Performing exploratory data analysis by visualizing the data using scatter plots and histograms.
+3. Performing exploratory data analysis by visualizing the data using scatter plots and histograms.
 4. Preprocessing the data by scaling it using the StandardScaler.
 5. Splitting the data into training and testing sets.
 6. Building a Bagging Classifier model using Decision Tree Classifier as the base estimator.
