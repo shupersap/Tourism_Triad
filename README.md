@@ -18,14 +18,14 @@ Run the cells in the notebook to reproduce the analysis.
 ## Contents
 The analysis includes the following steps:
 
-Loading the data from the CSV file.
-Cleaning the data by dropping missing values and unnecessary columns.
-Performing exploratory data analysis by visualizing the data using scatter plots and histograms.
-Preprocessing the data by scaling it using the StandardScaler.
-Splitting the data into training and testing sets.
-Building a Bagging Classifier model using Decision Tree Classifier as the base estimator.
-Evaluating the model using various metrics, such as accuracy, confusion matrix, and classification report.
-Visualizing the decision tree of the base estimator.
+1. Loading the data from the CSV file.
+2. Cleaning the data by dropping missing values and unnecessary columns.
+3.Performing exploratory data analysis by visualizing the data using scatter plots and histograms.
+4. Preprocessing the data by scaling it using the StandardScaler.
+5. Splitting the data into training and testing sets.
+6. Building a Bagging Classifier model using Decision Tree Classifier as the base estimator.
+7. Evaluating the model using various metrics, such as accuracy, confusion matrix, and classification report.
+8. Visualizing the decision tree of the base estimator.
 
 ## Dataset
 
