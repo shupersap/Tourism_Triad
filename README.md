@@ -3,11 +3,11 @@ This repository contains a Jupyter Notebook file that analyzes event feedback da
 
 ## Prerequisites
 * Python 3.x
-*Jupyter Notebook
-*Pandas
-*NumPy
-*Matplotlib
-*Scikit-Learn
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-Learn
 
 ## Getting Started
 1. Clone this repository on your computer.
